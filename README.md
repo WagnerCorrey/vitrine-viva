@@ -1,6 +1,6 @@
 # Vitrine Viva
 
-**Da loja física à primeira venda online. Um protótipo da Jupará Inc.**
+**Da loja física à primeira venda online. Um protótipo da Jupará Inc. para o evento 7ª edição · Hackathon Connect 7.0**
 
 A lojista organiza o catálogo e registra movimentações de estoque pelo painel. A cliente seleciona produtos na vitrine, envia uma pré-compra e aguarda a conferência. Se algum item estiver esgotado, pode escolher uma alternativa do catálogo ou seguir sem ele. A conclusão registra o pedido demonstrativo e dá baixa no estoque.
 
