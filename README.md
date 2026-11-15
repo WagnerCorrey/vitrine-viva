@@ -62,11 +62,12 @@ A suíte usa bancos temporários e cobre autenticação HTTP, isolamento dos ped
 
 ## Equipe
 
-- Jhonnatas — Gestão de conhecimento
-- Douglas — Desenvolvimento de Software
-- Wagner — Design UX/UI
+- Wagner
+- Jhonnatas
+- Douglas
 
-Projeto apresentado pela **Jupará Inc.** A licença de distribuição está pendente de definição pela equipe.
+
+Projeto apresentado pela **Jupará Inc.**.
 
 ## Referências técnicas
 
